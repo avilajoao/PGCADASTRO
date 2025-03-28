@@ -28,9 +28,3 @@ Este projeto é um formulário de cadastro de membros de uma igreja, desenvolvid
 - **HTML5**: Estrutura do formulário.
 - **Tailwind CSS**: Framework CSS utilitário para estilização moderna e responsiva.
 
-## Estrutura do Projeto
-
-```plaintext
-/
-├── [form.html](http://_vscodecontentref_/0)       # Arquivo principal contendo o formulário
-└── README.md       # Documentação do projeto
